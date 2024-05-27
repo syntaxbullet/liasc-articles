@@ -1,11 +1,11 @@
 /* loading fonts */
 @font-face {
     font-family: "Geist Sans";
-    src: url('/fonts/Geist-1.3.0/variable-ttf/GeistVF.ttf') format('truetype');
+    src: url('../fonts/Geist-1.3.0/variable-ttf/GeistVF.ttf') format('truetype');
 }
 @font-face {
     font-family: "Geist Mono";
-    src: url('/fonts/GeistMono-1.3.0/variable-ttf/GeistMonoVF.ttf') format('truetype');
+    src: url('../fonts/GeistMono-1.3.0/variable-ttf/GeistMonoVF.ttf') format('truetype');
 }
 
 /* setting defaults */
